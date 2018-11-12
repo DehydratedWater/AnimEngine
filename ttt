@@ -1,0 +1,46 @@
+ANIMATION
+ttt
+RESOLUTION
+1280 720
+LENGHT
+1
+FRAME
+QUENETAB
+LENGHT
+1
+Q true 0
+OBJTAB
+LENGHT
+1
+OBJ
+POINTS
+8
+375.01755 156.07018
+808.4211 156.07018
+808.4211 448.0
+375.01755 448.0
+463.7193 231.29825
+684.9123 231.29825
+684.9123 368.2807
+463.7193 368.2807
+CONNECTIONES
+8
+false false 0 1 0 0 4.0 COLOR 0 0 0 255
+false false 1 2 0 0 4.0 COLOR 0 0 0 255
+false false 2 3 0 0 4.0 COLOR 0 0 0 255
+false false 3 0 0 0 4.0 COLOR 0 0 0 255
+false false 4 5 0 0 4.0 COLOR 0 0 0 255
+false false 5 6 0 0 4.0 COLOR 0 0 0 255
+false false 6 7 0 0 4.0 COLOR 0 0 0 255
+false false 7 4 0 0 4.0 COLOR 0 0 0 255
+POLYGONS
+1
+COLOR 0 0 255 255 POLYGON 10 false false false false 3 3 0 0 0 false false false false 0 0 1 0 0 false false false false 1 1 2 0 0 false false false false 2 2 3 0 0 false false true true 0 0 0 0 0 false false false false 5 5 6 0 0 false false false false 4 4 5 0 0 false false false false 7 7 4 0 0 false false false false 6 6 7 0 0 false false true true 0 0 0 0 0 CONN 8 0 1 2 3 4 5 6 7 
+BITMAPTAB
+LENGHT
+0
+BITMAPS
+LENGHT
+0
+
+AnimEngine BETA 1.3
