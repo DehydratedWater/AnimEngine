@@ -9,3 +9,10 @@ This is the repository of a vector animation program. I started it as one of my 
 ## Quick overview (YouTube video)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/slExAxk0daA/0.jpg)](https://www.youtube.com/watch?v=slExAxk0daA)
+
+
+## Installation
+
+To use program you need to install Java JRE or JDK in version 1.7+. Download install_pack.zip from repository, unzip it, run AnimEngine.jar, have fun
+
+Directory AnimEngine is eclipse project and can me imported as it
